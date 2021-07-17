@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.92d4a68c.chunk.css",
+    "main.js": "./static/js/main.bd5ae1b7.chunk.js",
+    "main.js.map": "./static/js/main.bd5ae1b7.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6a64f970.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6a64f970.js.map",
+    "static/js/2.f609916b.chunk.js": "./static/js/2.f609916b.chunk.js",
+    "static/js/2.f609916b.chunk.js.map": "./static/js/2.f609916b.chunk.js.map",
+    "static/js/3.435f2cb3.chunk.js": "./static/js/3.435f2cb3.chunk.js",
+    "static/js/3.435f2cb3.chunk.js.map": "./static/js/3.435f2cb3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.92d4a68c.chunk.css.map": "./static/css/main.92d4a68c.chunk.css.map",
+    "static/js/2.f609916b.chunk.js.LICENSE.txt": "./static/js/2.f609916b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/WorkSans.750d1fbf.woff",
+    "static/media/SplashHeader.css": "./static/media/bg.4240e66c.gif",
+    "static/media/discord.6803cb58.svg": "./static/media/discord.6803cb58.svg",
+    "static/media/github.42912571.svg": "./static/media/github.42912571.svg",
+    "static/media/loading-image.2a288a5b.gif": "./static/media/loading-image.2a288a5b.gif",
+    "static/media/mm-logo.c6d8c363.svg": "./static/media/mm-logo.c6d8c363.svg",
+    "static/media/open-sea.80ca8463.svg": "./static/media/open-sea.80ca8463.svg",
+    "static/media/scientist-animated.da1e2655.gif": "./static/media/scientist-animated.da1e2655.gif",
+    "static/media/telegram.465f14b3.svg": "./static/media/telegram.465f14b3.svg",
+    "static/media/twitter.ec3cb7ca.svg": "./static/media/twitter.ec3cb7ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a64f970.js",
+    "static/js/2.f609916b.chunk.js",
+    "static/css/main.92d4a68c.chunk.css",
+    "static/js/main.bd5ae1b7.chunk.js"
+  ]
+}
